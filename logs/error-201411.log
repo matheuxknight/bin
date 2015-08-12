@@ -1,0 +1,41 @@
+[2014/11/14 14:42:51] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/11/14 14:42:51] ERROR: An attempt was made to move the file pointer before the beginning of the file. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/11/14 15:28:57] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/11/14 15:28:57] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/11/18 12:44:01] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/18 14:04:41] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/18 14:12:26] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/18 14:21:50] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/18 17:05:33] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/18 23:43:17] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/18 23:43:25] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 01:04:25] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 01:04:38] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 01:05:31] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 01:05:36] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 01:07:41] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 01:07:46] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 01:09:46] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 01:09:49] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:09:22] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:09:27] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:23:32] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:23:40] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:42:22] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:42:24] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:43:58] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:44:23] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:44:42] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:44:44] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:46:00] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 04:46:01] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:47:52] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 04:48:04] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 05:18:56] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 05:18:59] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 08:02:31] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 08:02:38] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 08:13:55] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/19 08:13:57] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/11/19 09:18:27] ERROR: ASSERT(connection->user) failed at RtmpChat.cpp:252
+[2014/11/25 14:28:14] ERROR: Unable to read 4 bytes from the file. Cursor: 1477 (0x00000000); 1477 ((null))

@@ -1,0 +1,19 @@
+[2015/04/16 14:15:34] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/16 14:15:35] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/16 14:15:35] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/16 14:15:35] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/16 14:15:38] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/16 14:15:38] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/16 14:15:38] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/16 14:15:39] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/16 14:15:43] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/16 14:15:44] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/16 14:15:44] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/16 14:15:44] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/23 10:14:45] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/04/23 10:33:52] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/04/27 07:43:12] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/27 07:43:13] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/27 07:43:13] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/04/27 07:43:13] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/04/29 14:58:42] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20

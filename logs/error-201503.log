@@ -1,0 +1,39 @@
+[2015/03/04 13:49:44] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/03/04 14:45:50] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/03/11 12:40:25] ERROR: Unable to read 4 bytes from the file. Cursor: 47837 (0x00000000); 47837 ((null))
+[2015/03/11 13:03:57] ERROR: Unable to read 4 bytes from the file. Cursor: 60403 (0x00000000); 60403 ((null))
+[2015/03/16 14:46:23] ERROR: Unable to read 4 bytes from the file. Cursor: 27829 (0x00000000); 27829 ((null))
+[2015/03/17 10:41:09] ERROR: Unable to read 4 bytes from the file. Cursor: 41981 (0x00000000); 41981 ((null))
+[2015/03/17 11:11:12] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/03/17 11:11:12] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/03/17 11:11:12] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/03/17 11:11:21] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/03/17 11:11:21] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/03/17 11:11:21] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/03/17 11:11:21] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/03/17 11:11:21] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/03/17 11:11:25] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/03/17 11:11:31] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/03/17 12:03:59] ERROR: Unable to read 4 bytes from the file. Cursor: 28439 (0x00000000); 28439 ((null))
+[2015/03/17 12:12:58] ERROR: Unable to read 4 bytes from the file. Cursor: 18435 (0x00000000); 18435 ((null))
+[2015/03/17 12:13:02] ERROR: Unable to read 4 bytes from the file. Cursor: 26609 (0x00000000); 26609 ((null))
+[2015/03/17 12:35:23] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 12:38:52] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 12:41:41] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 12:42:01] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 12:42:24] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 12:44:58] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 12:45:46] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 13:20:03] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 13:20:17] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 14:15:04] ERROR: ASSERT(file) failed at RtmpModel.cpp:103
+[2015/03/17 16:11:24] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/03/19 15:16:31] ERROR: Unable to read 4 bytes from the file. Cursor: 41981 (0x00000000); 41981 ((null))
+[2015/03/20 16:05:51] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/03/24 14:11:33] ERROR: Unable to read 4 bytes from the file. Cursor: 41981 (0x00000000); 41981 ((null))
+[2015/03/25 08:25:15] ERROR: Unable to read 4 bytes from the file. Cursor: 41981 (0x00000000); 41981 ((null))
+[2015/03/25 10:17:12] ERROR: Unable to read 4 bytes from the file. Cursor: 119085 (0x00000000); 119085 ((null))
+[2015/03/25 11:10:36] ERROR: Unable to read 4 bytes from the file. Cursor: 41981 (0x00000000); 41981 ((null))
+[2015/03/25 11:16:04] ERROR: Unable to read 4 bytes from the file. Cursor: 41981 (0x00000000); 41981 ((null))
+[2015/03/25 11:19:42] ERROR: Unable to read 4 bytes from the file. Cursor: 32221 (0x00000000); 32221 ((null))
+[2015/03/25 11:20:35] ERROR: Unable to read 4 bytes from the file. Cursor: 59671 (0x00000000); 59671 ((null))

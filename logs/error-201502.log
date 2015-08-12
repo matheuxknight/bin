@@ -1,0 +1,19 @@
+[2015/02/04 21:37:54] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/02/05 15:26:06] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:06] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/02/05 15:26:06] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:19] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:21] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:21] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:21] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:30] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:39] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/02/05 15:26:39] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/02/05 15:26:40] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/05 15:26:40] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2015/02/05 15:26:40] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2015/02/14 04:45:13] ERROR: SQL CONNECT: Can't connect to MySQL server on 'localhost' (10061)
+[2015/02/14 04:45:25] ERROR: SQL CONNECT: Can't connect to MySQL server on 'localhost' (10061)
+[2015/02/16 13:39:22] ERROR: ASSERT(connection->user) failed at RtmpModel.cpp:20
+[2015/02/21 04:21:03] ERROR: The media is write protected. - ASSERT(b) failed at MonitorProcess.cpp:29
+[2015/02/21 04:24:11] ERROR: SQL CONNECT: Can't connect to MySQL server on 'localhost' (10061)

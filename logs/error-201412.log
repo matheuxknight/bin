@@ -1,0 +1,63 @@
+[2014/12/01 14:36:44] ERROR: ASSERT(res) failed at RtmpConnection.cpp:140
+[2014/12/08 14:15:48] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:15:48] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:15:48] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:15:49] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:15:51] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:16:30] ERROR: Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:16:31] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:16:31] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:16:31] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:16:34] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:16:35] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:16:35] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:17:37] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:17:41] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:17:44] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:17:47] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:17:51] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:18:03] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:18:03] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:18:03] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:18:27] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:18:27] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:19:04] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:19:04] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:19:04] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:19:20] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:19:53] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:19:53] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:19:53] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:19:57] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:20:32] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:20:32] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:20:32] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:20:46] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:23:24] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:23:24] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:23:24] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:23:29] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:23:31] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:23:34] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:23:42] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:54:50] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:54:50] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:54:50] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:54:52] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:55:29] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:55:29] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:55:29] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:55:30] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:57:45] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:57:45] ERROR: Cannot create a file when that file already exists. - Unable to read 4 bytes from the file. Cursor: 13 (0x00000000); 13 ((null))
+[2014/12/08 14:57:45] ERROR: Cannot create a file when that file already exists. - ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:57:46] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/08 14:57:47] ERROR: ASSERT(position <= _size.QuadPart) failed at file.cpp:152
+[2014/12/10 11:47:25] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/12/10 12:14:47] ERROR: ASSERT(connection->session) failed at RtmpModel.cpp:17
+[2014/12/11 10:54:36] ERROR: Unable to read 4 bytes from the file. Cursor: 67479 (0x00000000); 67479 ((null))
+[2014/12/11 10:54:49] ERROR: Unable to read 4 bytes from the file. Cursor: 144095 (0x00000000); 144095 ((null))
+[2014/12/23 18:07:40] ERROR: ASSERT(res) failed at RtmpStreamOut.cpp:159
+[2014/12/23 18:07:40] ERROR: Cannot create a file when that file already exists. - ASSERT(res) failed at RtmpConnection.cpp:374
+[2014/12/30 08:53:51] ERROR: ASSERT(res) failed at RtmpStreamOut.cpp:159
+[2014/12/30 08:53:51] ERROR: Cannot create a file when that file already exists. - ASSERT(res) failed at RtmpConnection.cpp:374
